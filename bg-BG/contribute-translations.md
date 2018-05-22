@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title: Translating rust-lang.org to other languages to adapt internationalization 
 ---
 

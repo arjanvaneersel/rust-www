@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title:  Rust Documentation &middot; The Rust Programming Language
 ---
 

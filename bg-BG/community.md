@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title: Общността на Ръст &middot; Езикът за програмиране Ръст
 ---
 

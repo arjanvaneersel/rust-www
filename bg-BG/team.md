@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title: The Rust Team &middot; The Rust Programming Language
 extra_css:
   - team.css

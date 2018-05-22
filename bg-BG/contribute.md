@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title: Contributing to Rust &middot; The Rust Programming Language
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: bg-BG/default
 title: Rust Whitepapers &middot; The Rust Programming Language
 ---
 
