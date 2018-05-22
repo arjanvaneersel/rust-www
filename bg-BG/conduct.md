@@ -1,43 +1,46 @@
 ---
 layout: default
-title: The Rust Code of Conduct &middot; The Rust Programming Language
+title: Kодексът на поведение &middot; Езикът за програмиране Ръст
 ---
 
-# The Rust Code of Conduct
+# Kодексът на поведение за Ръст
 
-## Conduct
+## Поведение
 
-**Contact**: [rust-mods@rust-lang.org](mailto:rust-mods@rust-lang.org)
+**Контакт**: [rust-mods@rust-lang.org](mailto:rust-mods@rust-lang.org)
 
-* We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.
-* On IRC, please avoid using overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
-* Please be kind and courteous. There's no need to be mean or rude.
-* Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.
-* Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.
-* We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term "harassment" as including the definition in the <a href="http://citizencodeofconduct.org/">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don't tolerate behavior that excludes people in socially marginalized groups.
-* Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the [Rust moderation team][mod_team] immediately. Whether you're a regular contributor or a newcomer, we care about making this community a safe place for you and we've got your back.
-* Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.
+* Ангажираме се да осигуряваме приятелска, безопасна и приветлива среда за всекиго, независимо от пол, сексуална ориентация, инвалидност, етническа принадлежност, религия или подобни лични характеристики. 
+* Не използвайте на IRC открити сексуални прякори или други прякори, които могат да накърняват приятелската, безопасната и приветливата среда за всички.
+* Бъди любезен/а и дружливн/а. Не е необходимо да си лош/а или груб/а.
+* Уважавай, че хора имат различни мения и, че всеки дизайн и изпълнение си има недостатъци и цена. Почти никога няма най-правилният отговор.
+* Остани се най-възможно от неструктурирана критика, Ако имаш солидни идеи, направи си форк и гледай как върши работата.
+* Ще те изключим от взаимодействието ако обиждаш, унижиш или тормозиш някого. Не търпим такова поведение. Тълковаме "тормоз" както определението в <a href="http://citizencodeofconduct.org/">Гражданският кодекс за поведение</a>; Ако не ти е ясно тълкуването в този контекст, прочети определението. Особенно, не толерираме поведение, което изключва хората в социално маргинализирани групи.
+* Личен тормоз също е неприемлив. Няма значение кой/я си, ако смяташ, че си (бил/а) предмет на тормоз или се чувстваш неприятно
+заради поведението на член на общността, свържи се веднага с един от каналните операторите на [модераторският екип][mod_team]. Няма значение дали си редовен сътрудник или нов/а, на нас ни е грижа общността 
+да бъде безопасно място за тебе.
+* По същия начин не толерираме спам, тролваме, flaming, подмами или друго поведение, което отнема вниманието.
 
-## Moderation
+## Модерация
 
+Има правила, които отстояват стандартите за поведение в нашата общност. Ако мислип, че нишка се нуждае от модерация, свържи се 
+с [модератския екип][mod_team].
 
-These are the policies for upholding our community's standards of conduct. If you feel that a thread needs moderation, please contact the [Rust moderation team][mod_team].
+1. Коментари, които нарушават кодекса на поведена за Ръст, включено омразни, болезни, потискащи  или изключващи коментари, не са ползволени. (Псуване е ползволено, освен когато е към определен потребител и никога в омразващ начин.)
+2. Коментари, чиито модераторите смятат за неподходящи, без значение дали са в кодекса за поведение, също не са ползволени
+3. Първоначално модераторите ще реагират с предупреждение на такива коментари.
+4. Ако предупреждението не се спазва, потребителят ще бъде изгонен и блокиран от достъп до канала за временен период.
+5. Ако потребителят се връща и продължава белите, той ще бъде изгонен и напълно отказан от достъп до канала.
+6. Модераторите могат отново да дават достъп до потребителя по тяхна преценка ако беше първо нарушение и когато потребителя
+дава изкрено извинение към жертвата.
+7. Ако мислия, че модератор не е постъпил правилно с отказ на достъп ня някого, тогава обсъждай това сус самият или друг модератор **в личен чат**. Не се ползволи оплаквания за отказан достъп в канала.
+8. Модераторите трябва да спасват още по-висок стандарт от други членове на общността. Модератори, които не се държат в неподходящ начин, трябва да очакват по-малко свобода на действие от други.
 
-1. Remarks that violate the Rust standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)
-2. Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.
-3. Moderators will first respond to such remarks with a warning.
-4. If the warning is unheeded, the user will be "kicked," i.e., kicked out of the communication channel to cool off.
-5. If the user comes back and continues to make trouble, they will be banned, i.e., indefinitely excluded.
-6. Moderators may choose at their discretion to un-ban the user if it was a first offense and they offer the offended party a genuine apology.
-7. If a moderator bans someone and you think it was unjustified, please take it up with that moderator, or with a different moderator, **in private**. Complaints about bans in-channel are not allowed.
-8. Moderators are held to a higher standard than other community members. If a moderator creates an inappropriate situation, they should expect less leeway than others.
+В общността на Ръст очакваме да даваме повече от себе си да се грижим за другия човек. Не опитай само да бъдеш технически несъмнен/а, а да бъдеш най-добрия/та ти. Особено да се избегнеш от обидни или чувствителни предмети, още повече ако са извън темата; Твърде често такива неща само стигнат до ненужни кавги, боли чувства и повредено доверие; Или още по-лошо: хора да се отказват напълно от общността.
 
-In the Rust community we strive to go the extra step to look out for each other. Don't just aim to be technically unimpeachable, try to be your best self. In particular, avoid flirting with offensive or sensitive issues, particularly if they're off-topic; this all too often leads to unnecessary fights, hurt feelings, and damaged trust; worse, it can drive people away from the community entirely.
+И ако някой показва нещо, което казал/а или направил/а, устоявай на желанието да си защитиш. Прости си извини и не продължи това за, което човека ти показа. Дори когато смяташ, че си грешно тълкуван/а или несправедливо обвинен/а, най-вероятни имаше начин, че можеше да общуваш по-добре. Запомни: Твоята отговорност е, другите Ръстаджии за се чувстват удобни. Всеки иска да се разбираме, всички сме тук най-много защото искаме да говорим за готина технология. Ще видиш, че хора отценчват добро намерение и да простите докато имаш доверието им.
 
-And if someone takes issue with something you said or did, resist the urge to be defensive. Just stop doing what it was they complained about and apologize. Even if you feel you were misinterpreted or unfairly accused, chances are good there was something you could've communicated better — remember that it's your responsibility to make your fellow Rustaceans comfortable. Everyone wants to get along and we are all here first and foremost because we want to talk about cool technology. You will find that people will be eager to assume good intent and forgive as long as you earn their trust.
+Горепосочените правила се прилагат във всички официялни Ръст места; Включително официялните IRC канали (#rust, #rust-internals, #rust-tools, #rust-libs, #rustc, #rust-beginners, #rust-docs, #rust-community, #rust-lang, and #cargo); Репоситорите на ГитХъб под rust-lang, rust-lang-nursery  и rust-lang-deprecated; Всички форуми под rust-lang.org (users.rust-lang.org, internals.rust-lang.org). За други проекти, които са приели този кодекс, свържи се с ръководителите на този проект за подробностите на прилагането. Ако искаш да използваш този кодекс на поведение в твоя проект, If you wish to use this code of conduct for your own project, обмисли да споменяваш изрично твоите правила за модерация или да копиираш кодекса с твоите правила за да няма объркване.
 
-The enforcement policies listed above apply to all official Rust venues; including official IRC channels (#rust, #rust-internals, #rust-tools, #rust-libs, #rustc, #rust-beginners, #rust-docs, #rust-community, #rust-lang, and #cargo); GitHub repositories under rust-lang, rust-lang-nursery, and rust-lang-deprecated; and all forums under rust-lang.org (users.rust-lang.org, internals.rust-lang.org). For other projects adopting the Rust Code of Conduct, please contact the maintainers of those projects for enforcement. If you wish to use this code of conduct for your own project, consider explicitly mentioning your moderation policy or making a copy with your own moderation policy so as to avoid confusion.
-
-*Adapted from the [Node.js Policy on Trolling](http://blog.izs.me/post/30036893703/policy-on-trolling) as well as the [Contributor Covenant v1.3.0](https://www.contributor-covenant.org/version/1/3/0/).*
+*Базирано върху [Node.js правила за тролинг](http://blog.izs.me/post/30036893703/policy-on-trolling) както и върху [Contributor Covenant v1.3.0](https://www.contributor-covenant.org/version/1/3/0/).*
 
 [mod_team]: /team.html#Moderation-team
