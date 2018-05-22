@@ -1,52 +1,51 @@
 ---
 layout: default
-title: The Rust Community &middot; The Rust Programming Language
+title: Общността на Ръст &middot; Езикът за програмиране Ръст
 ---
 
-# The Rust Community
+# Общността на Ръст
 
-The Rust programming language has many qualities, but Rust's greatest
-strength is the community of people who come together to make working
-in Rust a rewarding experience.
+Езикът на програмиране Ръст има много качества, но най-голямата сила 
+на Ръст е общността на хора, които се присъединяват заедно за да направят
+работата с Ръст възнаграждаващо приживяване.
 
-We are committed to providing a friendly, safe and welcoming
-environment for all, regardless of gender, sexual orientation,
-disability, ethnicity, religion, or similar personal
-characteristic. Our [code of conduct][coc] sets the standards for
-behavior in all official Rust forums.
+Ангажираме се да осигуряваме приятелска, безопасена и приветлива среда
+за всекиго, независимо от пол, сексуална ориентация, инвалидност,
+етническа принадлежност, религия или подобни лични характеристики. 
+Нашия [кодекс на поведение][coc] определя стандартите за поведение 
+във всички официялни форуми на Ръст.
 
-If you feel you have been or are
-being harassed or made uncomfortable by a community member, please
-[contact][mod_team_email] any of the [Rust Moderation Team][mod_team]
-immediately. Whether you are a regular contributor or a newcomer, we
-care about making the community a safe space for you.
+Ако смяташ, че беше тормозен/а или член на общността се държи непрятно към теб, 
+веднага [контактувай][mod_team_email] член на [Модераторския екип на Ръст][mod_team].
+Няма значение дали си редовен сътрудник или нов/а, на нас ни е грижа общността 
+да бъде безопасно място за тебе.
 
 [coc]: conduct.html
 [mod_team_email]: mailto:rust-mods@rust-lang.org
 
-## Getting Started
+## Как да започваш
 
-The most important community resources for those new to Rust are:
+Най-важните ресурси на общността за хора, които са нови на Ръст са:
 
-- [#rust-beginners][beginners_irc], an IRC channel that
-  loves answering questions at any depth.
-- The [Users Forum][users_forum], for discussion of all
-  things Rust.
+- [#rust-beginners][beginners_irc], IRC чат канал с хора, които
+  обичат да отговорят на въпроси на всяко ниво.
+- [Форумът на потребители][users_forum], за дискусия на всички
+  неща свързани с Ръст.
 
-You may also find help on the question and answer site, [Stack Overflow][stack_overflow].
+Също можеш да намериш помощ на сайта за въпроси и отворови, [Stack Overflow][stack_overflow].
 
 [stack_overflow]: https://stackoverflow.com/questions/tagged/rust
 
-## News
+## Новини
 
-[This Week in Rust][twir] collects the latest news, upcoming events
-and a week-by-week account of changes in the Rust language and
-libraries. [The Rust Blog][rust_blog] is where the Rust team makes
-announcements about major developments. And nearly everything happening in
-Rust is discussed on the unofficial subreddit, [/r/rust][reddit].
+[Тази седмица в Ръст][twir] събира последните новини, предстоящи събития
+и седмичен отчет на промените в езика Ръст и библиотеките му.
+[Ръст блог][rust_blog] е мястото, където екипът на Ръст пуска is where the Rust team makes
+announcements съобщения за големи развития. Последно, почти за всичко, което се случва в Ръст 
+се говори в не-официялния субредит, [/r/rust][reddit].
 
-We also have a [Twitter][twitter] account.
-If you can't read English, you can also follow our [Weibo][weibo] for Chinese.
+Също имаме [Туиттер][twitter]
+Ако не знаеш Английски, можеш да ни следваш в Китайски на [Weibo][weibo].
 
 [twir]: https://this-week-in-rust.org/
 [rust_blog]: http://blog.rust-lang.org/
@@ -55,26 +54,26 @@ If you can't read English, you can also follow our [Weibo][weibo] for Chinese.
 [twitter]: https://twitter.com/rustlang
 [weibo]: http://weibo.com/u/5616913483
 
-## IRC Channels
+## Канали на IRC
 
-Rustaceans maintain a number of friendly, high-traffic [IRC] channels on Mozilla's IRC network, irc.mozilla.org.
+Ръстаджии поддържат няколко хубави, високо посетени [IRC] канали на мрежата на Мозилла, irc.mozilla.org.
 
-The [#rust][rust_irc] channel is a venue for general
-discussion about Rust, and a good place to ask for help. You'll find
-people willing to answer any questions about Rust, and
-responses are typically fast.
+Каналът [#rust][rust_irc] е за общи дискусии за Ръст 
+и добро място да попиташ за помощ. Ще намериш хора, 
+които са слони да отговорят на въпросите ти, и по-принцип
+отговорят доста бързо.
 
-Rust's developers coordinate in [#rust-internals][internals_irc]. It is for
-real-time discussion about hacking on Rust itself. It is also the channel
-to ask questions about contributing to Rust.
+Сътруудниците на Ръст се координират в [#rust-internals][internals_irc]. 
+Този канал е да дискусия за разработване на самият Ръст. Също е мястото 
+за да задаваш въпроси за да допринасяваш на Ръст. 
 
-### Main channels
+### Главни канали
 
-- [#rust][rust_irc] is for all things Rust
-- [#rust-beginners][beginners_irc] is a space for those new to Rust, lower traffic than #rust
-- [#rust-internals][internals_irc] is for discussion of working on the Rust project itself
+- [#rust][rust_irc] за всичко свързано с Ръст
+- [#rust-beginners][beginners_irc] е място за хора, които са нови на Ръст. Има по-малко трафик от #rust
+- [#rust-internals][internals_irc] е за дискусии за работата на самият Ръст проект.
 
-### International channels
+### Вътрешни канали
 
 - [#rust-br][br_irc] é dedicado à discussão sobre Rust no Brasil
 - [#rust-de][de_irc] ist für die allgemeine Diskussion über Rust auf Deutsch
@@ -84,43 +83,43 @@ to ask questions about contributing to Rust.
 - [#rust-sv](https://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust-sv) är för allmän diskussion om Rust på svenska
 - [Rust中文][cn_org] Rust 语言中文 Chat 社区(非IRC频道)
 
-### Team channels
+### Отборни канали
 
-- [#cargo][cargo_irc] is for discussion of Cargo, Rust's package manager and home of the [cargo team][cargo_team]
-- [#rust-community][community_irc] is the home of the [community team][community_team]
-- [#rustc][rustc_irc] is the home of the [compiler team][compiler_team]
-- [#rust-dev-tools][dev_tools_irc] is the home of the [developer tools team][dev_tools_team]
-- [#rust-docs][docs_irc] is the home of the [documentation team][doc_team]
-- [#rust-infra][infra_irc] is the home of the [infrastructure team][infra_team]
-- [#rust-lang][lang_irc] is the home of the [language team][language_team]
-- [#rust-libs][libs_irc] is the home of the [libraries team][library_team]
-- [#rust-mods][mod_irc] is the irc channel for the [moderation team][mod_team]
-- [#rust-style][style_irc] is the home of the [style strike team][style_team]
-- [#rustdoc][rustdoc_irc] is the home of the Rustdoc team.
+- [#cargo][cargo_irc] е за дискусия на Карго, мениджър на пакети за Ръст и домът на [карго екип][cargo_team]
+- [#rust-community][community_irc] е домът на [екип общност][community_team]
+- [#rustc][rustc_irc] е домът на [екип компилатор][compiler_team]
+- [#rust-dev-tools][dev_tools_irc] е домът на [екип инструменти за разработчици][dev_tools_team]
+- [#rust-docs][docs_irc] е домът на [екип документация][doc_team]
+- [#rust-infra][infra_irc] е домът на [екип инфраструктура][infra_team]
+- [#rust-lang][lang_irc] е домът на [екип език][language_team]
+- [#rust-libs][libs_irc] е домът на [екип библиотеки][library_team]
+- [#rust-mods][mod_irc] е каналът на [екип модерация][mod_team]
+- [#rust-style][style_irc] е домът на [екип style strike][style_team]
+- [#rustdoc][rustdoc_irc] е домът на екип Ръстдок.
 
-### Topical channels
+### Темически канали
 
-These channels are of the wider Rust community, and are not moderated by the [moderation team][mod_team].
+Тези канали са от по-широката Ръст общност и не са модерирани от [екипът модерация][mod_team].
 
-- [#rust-bots][bots_irc] notifications about Rust from a selection of bots
-- [#rust-crypto][crypto_irc] is for discussion of cryptography in Rust
-- [#rust-embedded][embedded_irc] is for people doing embedded software in Rust
-- [#rust-gamedev][gamedev_irc] is for people doing game development in Rust
-- [#rust-geo][rustgeo_irc] is for discussion on GeoRust, geospatial tools written in Rust
-- [#rust-machine-learning][machine_learning_irc] is for people doing machine learning in Rust
-- [#rust-networking][networking_irc] is for people doing computer networking and development in Rust
-- [#rust-osdev][osdev_irc] is for people doing OS development in Rust
-- [#rust-sci][sci_irc] is for people doing scientific computing in Rust
-- [#rust-wasm][wasm_irc] is for discussion on using Rust with WebAssembly
-- [#rust-webdev][webdev_irc] is for people doing web development in Rust
-- [#hyper][hyper_irc] is for discussion on Hyper, a popular Rust http library
-- [#iron][iron_irc] is for discussion on Iron, the extensible Rust web framework
-- [#nom][nom_irc] is for discussion on Nom, a Rust parser combinator library
-- [#redox][redox_irc] is for discussion on Redox, the operating system written in Rust
-- [#rocket][rocket_irc] is for discussion on Rocket, a popular Rust http framework
-- [#serde][serde_irc] if for discussion on Serde, a popular Rust serialization library
-- [#servo][servo_irc] is for discussion of Servo, the browser engine written in Rust
-- [#xi][xi_irc] is for discussion of Xi, the text editor written in Rust
+- [#rust-bots][bots_irc] нотификации за Ръст от различни ботове
+- [#rust-crypto][crypto_irc] е за дискуция на криптография в Ръст
+- [#rust-embedded][embedded_irc] е за хора, които правят вграден софтуер в Ръст
+- [#rust-gamedev][gamedev_irc] е за хора, които разработват игри в Ръст
+- [#rust-geo][rustgeo_irc] е за дискусия на ГеоРъст, is for discussion on GeoRust, геопространствени инструменти написани в Ръст
+- [#rust-machine-learning][machine_learning_irc] е за хора, които се занимават с машинно обучение в Ръст 
+- [#rust-networking][networking_irc] е за хора, които разработват на компютърни мрежи в Ръст
+- [#rust-osdev][osdev_irc] е за хора, които разработват операционни системи в Ръст
+- [#rust-sci][sci_irc] е за хора, които се занимават с научни изчисления в Ръст
+- [#rust-wasm][wasm_irc] е за общуването на използването на Ръст с УебАсембли
+- [#rust-webdev][webdev_irc] е за хора, които правят уеб прогамиране в Ръст
+- [#hyper][hyper_irc] е за дискисия за Хайпър, популарен http библиотека за Ръст
+- [#iron][iron_irc] е за общуването на Ирон, разширяема уеб фреймуорк за Ръст
+- [#nom][nom_irc] е за дискисия на Nom, библиотека за съсирвачи на анализатори за Ръст
+- [#redox][redox_irc] е за дискусия на Редокс, операционна система написана в Ръст
+- [#rocket][rocket_irc] е за общуването на Рокет, популярен http фреймуорк
+- [#serde][serde_irc] е за общуването на Серде, популярна Ръст библиотека за сериялизация
+- [#servo][servo_irc] е за дискусия на Серво, броусер енджин написан в Ръст
+- [#xi][xi_irc] е за дискисия на Кси, текстов редактор написано в Ръст
 
 [IRC]: https://en.wikipedia.org/wiki/Internet_Relay_Chat
 [beginners_irc]: https://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust-beginners
@@ -164,85 +163,77 @@ These channels are of the wider Rust community, and are not moderated by the [mo
 [wasm_irc]: https://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rust-wasm
 [rustdoc_irc]: https://chat.mibbit.com/?server=irc.mozilla.org&channel=%23rustdoc
 
-## Discussion Forums
+## Форуми за дискусия
 
-We have two forums for asynchronous discussion:
+Имаме два форума за асинхронно дискусия:
 
-- The [Users Forum][users_forum], a space for asking questions, posting code
-  snippets, talking about Rust projects, and so on.
+- [Потребителският форум][users_forum], е мястото за въпроси, публикуване на кодови фрагменти
+разговор за Ръст проекти, и т.н.
 
-- The [Internals Forum][internals_forum], a space dedicated to design and
-  implementation discussion about Rust itself (which includes Cargo, the
-  standard library, and other core bits of infrastructure).
+- [Вътрешният форум][internals_forum], е място определено за дискусия на дизайн и изпълнение
+на самият Ръст (включено Карго, стандардната библиотека и други корени инфраструктурални елементи)
 
 [users_forum]: https://users.rust-lang.org/
 [internals_forum]: https://internals.rust-lang.org/
 
-## YouTube Channel
+## Ютуб канал
 
-Rust has a [YouTube channel][youtube_channel] where presentations
-given at user groups and conferences by members of the Rust community
-are uploaded.
+Ръст си има [Ютуб канал][youtube_channel] с презентации от членовете на Ръст общност на 
+събития на потребиделски групи и конференции.
 
 [youtube_channel]: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
 
-## User Groups and Meetups
+## Потребителски групи и Митъп-и
 
-There are more than 90 [Rust User Groups][user_group] worldwide in
-over 35 countries. Rustaceans meet periodically in Rust User Groups.
-Its a great introduction to the community and a great way to learn and
-socialize with other people with a similar interest. Meetings are
-usually held monthly and very informal. Meetings are open to everyone.
+Има повече от 90 [потребителски групи за Ръст][user_group] на света в
+над 35 страни. Ръстаджии редовни се стрешнат в етзи потребителски групи.
+Те са добра интродукция на общността и отличен начин да учиш и да се заповнаваш
+с други хора със същия интерес. Най-много събития са месечни и много неформални.
+Събития са отворени за всекиго.
 
-There is a global [calendar][calendar] for keeping up with Rust events.
-Contact the [community team][community_team] to add your own.
+Има глобален [календар][calendar] за Ръст събития.
+Свържи се с [екип общност][community_team] за да добавиш твоето събитие.
 
 [user_group]: ./user-groups.html
 [calendar]: https://www.google.com/calendar/embed?src=apd9vmbc22egenmtu5l6c5jbfc@group.calendar.google.com
 
-## The Rust Team
+## Ръст екип
 
-Rust has a community-driven development process where most decisions are made
-through open discussion and consensus, under the stewardship of various
-[teams][teams]:
+Ръст има разработващ процес задвижван от общност и така най-много решения 
+се вземат, през отворена дискисия и съгласие, под ръководството на различни 
+[екипи][teams]:
 
-* The [Core Team][core_team] is responsible for steering the design and
-development process, overseeing the introduction of new features, and ultimately
-making decisions for which there is no consensus (this happens rarely).
+* [кореният екип][core_team] е отговорен за процеса на дизайн и разработване, 
+надзор на нови функции и вземането на крайни решения ако няма съгласие 
+(което рядко се случва).
 
-* The [Language Team][language_team] is responsible for the
-  design of new language features.
+* [Езиковият екип][language_team] е отговорен за дизайна на нови езикови елементи.
 
-* The [Library Team][library_team] is responsible for the Rust standard
-library, rust-lang crates, and conventions.
+* [Библиотековият екип][library_team] е отговорен за стандардната библиотека, кратове и конвенции.
 
-* The [Compiler Team][compiler_team] is responsible for compiler internals and
-optimizations.
+* [Компилаторният екип][compiler_team] е отговорен за вътрешностите на компилатора и оптимизации.
 
-* The [Dev tools team][dev_tools_team] is responsible for setting the overall
-  direction of tools for working with Rust code.
+* [Екипът за Инструменти за разработчици][dev_tools_team] е отговорен за определението на цялостната 
+посока на инструментите за работата с Ръст код.
 
-* The [Cargo team][cargo_team] is responsible for the design and implementation of Cargo.
+* The [Екипът за Карго][cargo_team] е отговорен за дезайна и внедряването на Карго.
 
-* The [Infrastructure Team][infra_team] is responsible for infrastructure that supports
-  the project itself: CI, release generation, bots, and metrics.
+* The [Инфраструктиралният екип][infra_team] е отговорен за инстраструктурата на самият проект 
+като: CI, създаването на рилизи, ботове и метрика.
 
-* The [Community Team][community_team] is responsible for coordinating events,
-outreach, commercial users, teaching materials, and exposure. They can also
-direct inquiries to the correct parties when its not clear who to contact
-about something Rusty.
+* The [Екипът за общността][community_team] е отговорен за координацията на събития,
+аутрич, комерциялни потребители, материали за обучение и подлагане. Те също могат
+да препращат въпроси към правилните партиди ако не е ясно, кого да контактува за нещо
+свързано с Ръст.
 
-* The [Moderation Team][mod_team] is responsible for helping to uphold the
-[code of conduct][coc].
+* [Модератският екип][mod_team] е отговорен за да се спазва [кодекса на поведение][coc].
 
-* The [Documentation Team][doc_team] is responsible for ensuring Rust has
-  fantastic documentation.
+* [Документалният екип][doc_team] е отговорен за Ръст да има невероятна документация.
 
-In addition to the official team rosters, most teams also have a larger set
-of reviewers who are knowledgeable about the area and can sign off on
-code. If you're interested in getting involved in one of these teams,
-feel free to reach out to the team leader or any other member, who can
-help get you started.
+В допълнение към официалните списъци на екипи, най-много екипи имат раширена група от
+опитни рецензенти и които могат да разрешават код. Ако се интересуваш да участваш в един
+от тези екипи, просто питай ръководителя на екипа или друг член, който може да помогна да
+започваш.
 
 [teams]: team.html
 [core_team]: team.html#Core-team
@@ -256,22 +247,23 @@ help get you started.
 [doc_team]: team.html#Documentation-team
 [infra_team]: team.html#Infrastructure-team
 
-## Rust Development
+## Разработване на Ръст
 
-Rust has had over [2,000 different contributors][authors], a number that grows
-every single week. [We'd love for you to join that list][contribute]!
+Ръст е имало над [2,000 различни допринасящи][authors], и това число се надвишава 
+всяка седмица. [Бихме се радвали и ти да бъдеш на този списък][contribute]!
 
-As mentioned above, the [Rust Internals Forum][internals_forum] is dedicated to
-discussing the design and implementation of Rust. A lot of discussion also
-happens on GitHub:
+Както е споменато по-горе [Вътрешният форум][internals_forum] е посветен за
+обсъждането на дизайна и изпълнението на Ръст. Голяма част от дискусията също
+се води на Гитхъб:
 
-- The [main repository][github] and [issue tracker][issue_tracking] are the
-  front lines of the implementation work. Our reviewers strive to be friendly
-  and to help mentor newcomers, so don't hesitate to open a pull request!
+- [главното репоситори][github] и [преследвачът на проблеми][issue_tracking] са
+  фронтните линии от работата към изпълнението. Нащите рецензенти се стремят 
+  да бъдат дружелюбени и да бъдат ментори за нови хора. Така, не се колебайва да 
+  пускаш пул заявка.
 
-- The [RFC repo][rfcs] tracks our Request for Comment process, the main pathway
-  through which the Rust community and the teams reach consensus on new
-  features proposed for the language and official libraries and tools.
+- [RFC репоситори][rfcs] следва процеса на Молби за Коментари, главният начин
+  за решителния процес между общността и екипите за нови предложения за езика,
+  офоциялните библиотеки и инструменти.
 
 [authors]: https://thanks.rust-lang.org/rust/all-time
 [contribute]: contribute.html
